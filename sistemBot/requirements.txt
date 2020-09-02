@@ -1,0 +1,11 @@
+pyrogram==1.0.4
+tgcrypto==1.2.0
+asyncio==3.4.3
+aiohttp==3.6.2
+colorama==0.4.3
+pyngrok==4.1.10
+requests==2.24.
+pytz==2019.3
+rich==6.0.0
+opencv_python==4.4.0.42
+Pillow==7.2.0
